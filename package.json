@@ -1,0 +1,25 @@
+{
+  "name": "ebox-lambda",
+  "version": "1.0.0",
+  "description": "AWS lambda deployed using serverless.",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicneanschi/ebox-lambda.git"
+  },
+  "keywords": [
+    "ebox"
+  ],
+  "author": "Valeri Vicneanschi <vicneanschi@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vicneanschi/ebox-lambda/issues"
+  },
+  "homepage": "https://github.com/vicneanschi/ebox-lambda#readme",
+  "dependencies": {
+    "ebox": "^1.0.2"
+  }
+}
