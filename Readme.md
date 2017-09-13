@@ -10,7 +10,7 @@
 # How to get logs
 `serverless logs -f getUsage -t`
 
-# How to /get/set environment variables in powershell
+# How to get/set environment variables in powershell
 `Get-ChildItem Env:`
 
 `$env:NODE_DEBUG = 'request'`
